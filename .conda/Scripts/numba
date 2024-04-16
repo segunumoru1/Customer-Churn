@@ -1,0 +1,8 @@
+#!c:\Users\user\GoMyCode Data Science Bootcamp 2023\Financial Inclusion\.conda\python.exe
+# -*- coding: UTF-8 -*-
+from __future__ import print_function, division, absolute_import
+
+from numba.misc.numba_entry import main
+
+if __name__ == "__main__":
+    main()

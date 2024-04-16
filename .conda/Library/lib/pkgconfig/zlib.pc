@@ -1,0 +1,13 @@
+prefix=c:/Users/user/GoMyCode Data Science Bootcamp 2023/Financial Inclusion/.conda/Library
+exec_prefix=c:/Users/user/GoMyCode Data Science Bootcamp 2023/Financial Inclusion/.conda/Library
+libdir=c:/Users/user/GoMyCode Data Science Bootcamp 2023/Financial Inclusion/.conda/Library/lib
+sharedlibdir=c:/Users/user/GoMyCode Data Science Bootcamp 2023/Financial Inclusion/.conda/Library/lib
+includedir=c:/Users/user/GoMyCode Data Science Bootcamp 2023/Financial Inclusion/.conda/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
