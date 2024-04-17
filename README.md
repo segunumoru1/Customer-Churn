@@ -7,7 +7,7 @@ The term financial inclusion means:  individuals and businesses have access to u
  ## Dataset description: 
 The dataset contains demographic information and what financial services are used by approximately 33,600 individuals across East Africa. The ML model role is to predict which individuals are most likely to have or use a bank account.
 
-## COLUMN EXPLANATION
+#### COLUMN EXPLANATION
 
 1. country - Country the interviewee is in
 2. year - Year Survey is done
